@@ -1,6 +1,6 @@
 # Deteccao_Fraudes
 '''
-O programa detecao_fraudes.py implementa um sistema de detecção automática de fraudes em transações financeiras.
+O programa detecao_fraudes.ipynb implementa um sistema de detecção automática de fraudes em transações financeiras.
 Ele realiza todo o processo, desde o carregamento dos dados até a previsão de possíveis fraudes em novas transações,
 utilizando uma rede neural MLP (Multi-Layer Perceptron) da biblioteca scikit-learn.
 
